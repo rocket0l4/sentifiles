@@ -1,11 +1,5 @@
 # Sentiment Analysis Chatbot - README
 
-
-
-
-
-# Sentiment Analysis Chatbot - README
-
 ## Overview
 
 The **Sentiment Analysis Chatbot** is a Streamlit-based web application that analyzes the sentiment of text inputs or uploaded files and recommends relevant YouTube videos based on the analyzed content. It leverages the **TextBlob** library for sentiment analysis and the YouTube Data API to fetch video recommendations.
